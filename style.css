@@ -603,8 +603,8 @@ body {
 }
 
 #stars2 {
-    width: 2px;
-    height: 2px;
+    width: 1px;
+    height: 1px;
     background: transparent;
     animation: animStar 180s linear infinite;
 
@@ -665,8 +665,8 @@ body {
     content: '';
     position: absolute;
     top: auto;
-    width: 2px;
-    height: 2px;
+    width: 1px;
+    height: 1px;
     background: transparent;
 
     box-shadow: 1448px 320px #fff, 1775px 1663px #fff, 332px 1364px #fff,
@@ -723,8 +723,8 @@ body {
 }
 
 #stars3 {
-    width: 3px;
-    height: 3px;
+    width: 1px;
+    height: 1px;
     background: transparent;
     animation: animStar 240s linear infinite;
 
@@ -760,8 +760,8 @@ body {
     content: '';
     position: absolute;
     top: auto;
-    width: 3px;
-    height: 3px;
+    width: 1px;
+    height: 1px;
     background: transparent;
 
     box-shadow: 387px 1878px #fff, 760px 1564px #fff, 1487px 999px #fff,
