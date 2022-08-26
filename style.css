@@ -72,6 +72,7 @@ body {
 
 @media (hover: hover) {
     .link:hover {
+        transition: 0.3s;
         background-color: var(--accentColor);
         color: var(--bgColor);
     }
